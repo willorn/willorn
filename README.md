@@ -11,7 +11,6 @@
 
 Hello! I am a Java development engineer with a passion for building efficient and scalable applications. I currently work in Shenzhen, where I enjoy collaborating with talented teams to create innovative software solutions.
 
-- **Basic Frontend Development**: Capable of writing basic frontend code, handling simple page requirements, and style adjustments.
 
 ## Interests
 - **🔭 Reading**: Always eager to learn new technologies and best practices through reading technical books and articles.
@@ -25,7 +24,8 @@ Hello! I am a Java development engineer with a passion for building efficient an
 
 - **Java**: Proficient in building robust backend systems.
 - **Go**: Experience in project refactoring, infrastructure research, and framework selection.
-- **JavaScript**: Experience with both frontend and backend development using frameworks like Node.js and Vue.
+- **Basic Frontend Development**: Capable of writing basic frontend code, handling simple page requirements, and style adjustments.
+
 
 ### Details：Frameworks and Tools
 
