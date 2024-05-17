@@ -1,7 +1,7 @@
 
 
 <p> 
-  <a href="https://blog.ziki.top/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
+  <a href="https://blog.ziki.top/"> <img src="https://img.shields.io/badge/Blog-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Tianyi's Blog">
   <a href="mailto:willorn@foxmail.com"> <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=plastic&logo=mail&logoColor=white" height="25px" alt="Email">
 </p> 
 
