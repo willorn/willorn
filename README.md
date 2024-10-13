@@ -24,8 +24,9 @@ Hello! I am a Java development engineer with a passion for building efficient an
 
 - **Java**: Proficient in building robust backend systems.
 - **Go**: Experience in project refactoring, infrastructure research, and framework selection.
+- **React**：Basic skill for react and redux.
 - **Basic Frontend Development**: Capable of writing basic frontend code, handling simple page requirements, and style adjustments.
-
+- **Python**
 
 ### Details：Frameworks and Tools
 
