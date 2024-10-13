@@ -2,7 +2,9 @@
 
 
 <a href="https://www.linkedin.com/in/willorn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:willorn7013@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:codenice@outlook.com">
+  <img src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
 <a href="https://ziki.top"><img src="https://img.shields.io/badge/blog.ziki-0A0A0A?style=for-the-badge&logo=blog.ziki&logoColor=white" alt="tianyiblog"></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
