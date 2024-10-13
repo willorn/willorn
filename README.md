@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/willorn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:codenice@outlook.com">
-  <img src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+ <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 <a href="https://ziki.top"><img src="https://img.shields.io/badge/blog.ziki-0A0A0A?style=for-the-badge&logo=blog.ziki&logoColor=white" alt="tianyiblog"></a>
 
